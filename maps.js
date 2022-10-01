@@ -3,15 +3,16 @@
  * El final de cada nivel debe ser el inicio del siguiente
 */
 
-const emojis = {
+ const emojis = {
     '-': ' ',
-    'O': 'ðŸšª',
-    'X': 'ðŸ’£',
-    'I': 'ðŸŽ',
-    'PLAYER': 'ðŸ’€',
-    'BOMB_COLLISION': 'ðŸ”¥',
-    'GAME_OVER': 'ðŸ‘Ž',
-    'WIN': 'ðŸ†',
+    'O': '🚪',
+    'X': '💣',
+    'I': '🎁',
+    'PLAYER': '💀',
+    'BOMB_COLLISION': '🔥',
+    'GAME_OVER': '👎',
+    'WIN': '🏆',
+    'HEART': '❤️',
   };
   
   const maps = [];
